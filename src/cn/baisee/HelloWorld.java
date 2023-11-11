@@ -6,6 +6,7 @@ public class HelloWorld {
         System.out.println("hello git");
         System.out.println("hot-fix");
         System.out.println("hot-fix-2");
+        System.out.println("ssh github");
     }
 
 }
